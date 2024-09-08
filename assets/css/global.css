@@ -66,7 +66,8 @@ a{
  
 }
 .hero-left {
-    margin: 100px 0;
+    margin: 50px 0;
+   
 }
 
 
@@ -115,13 +116,13 @@ a{
 .AI{
     background-color: #020a18;
     color: #fff;
-    padding: 130px 0;
+    padding: 90px 0;
 }
 .ai-left-side img{
-   margin-right: 10px;
+   margin-right: 20px;
 }
 .ai-right-side{
-  margin: 77px 0px;
+  margin: 88px 0px;
 }
 .ai-right-side article{
     color: #fff;
